@@ -1,0 +1,23 @@
+.banner {
+  background-size: cover;
+  background-position: bottom;
+  padding-top: 50px;
+  padding-bottom: 200px;
+}
+
+.banner h1 {
+  color: white;
+  text-shadow: 2px 2px #202020;
+}
+
+.banner span {
+  font-size: 50px;
+  color: #37abb5;
+  text-shadow: 4px 4px #202020;
+}
+
+.banner p {
+  color: white;
+  opacity: .7;
+  font-size: 20px;
+}
